@@ -1,4 +1,4 @@
-### Hi there, I'm Carlos Eduardo 👋 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=eduardocesb&&left_color=purple&right_color=green) ![GitHub followers](https://img.shields.io/github/followers/eduardocesb?style=social)
+### Hi there, I'm Carlos Eduardo 👋 ![GitHub followers](https://img.shields.io/github/followers/eduardocesb?style=social)
 
 #### 📊 Github Stats
  <div>
